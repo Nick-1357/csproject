@@ -1,0 +1,4 @@
+<svg id="Step_counter" data-name="Step counter" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <circle id="Ellipse" cx="12" cy="12" r="12" fill="#1565c0"/>
+  <text id="Step_Number" data-name="Step Number" transform="translate(12 18)" fill="#fff" font-size="16" font-family="SegoeUI, Segoe UI" letter-spacing="0.031em"><tspan x="-4.313" y="0">5</tspan></text>
+</svg>
